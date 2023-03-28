@@ -1,2 +1,1 @@
-# OpenCV
-opencv-python
+# Python coding logic & features
